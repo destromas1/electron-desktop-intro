@@ -1,10 +1,10 @@
 {
   "name": "electron-desktop-intro",
   "version": "1.0.0",
-  "description": "document.write('The current version of io.js ' + process.version)",
+  "description": "electron-desktop-intro",
   "main": "index.js",
   "scripts": {
-    "test": "ontents = fs.readFileSync('./package.json', 'utf8')"
+    "test": ""
   },
   "repository": {
     "type": "git",
