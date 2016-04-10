@@ -2,9 +2,10 @@
   "name": "electron-desktop-intro",
   "version": "1.0.0",
   "description": "electron-desktop-intro",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
