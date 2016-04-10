@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/destromas1/electron-desktop-intro/issues"
   },
-  "homepage": "https://github.com/destromas1/electron-desktop-intro#readme"
+  "homepage": "https://github.com/destromas1/electron-desktop-intro#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.5"
+  }
 }
